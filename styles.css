@@ -98,3 +98,58 @@ a {
   width: 400px;
   border-radius: 5%;
 }
+
+.info {
+  background-color: #f8f7ff;
+  color: #435058;
+  text-align: center;
+  padding: 50px 200px;
+}
+
+.info-text {
+  font-size: 36px;
+  font-weight: 900;
+  justify-content: center;
+  padding-bottom: 48px;
+  margin: 0;
+  display: flex;
+}
+
+.card {
+  max-width: 300px;
+  justify-content: space-between;
+}
+
+.card-text {
+  padding: 8px;
+  font-size: 16px;
+  padding-top: 12px;
+}
+.container {
+  display: flex;
+  padding: 0px 50px;
+  justify-content: space-between;
+  gap: 48px;
+}
+
+.card img {
+  width: 200px;
+  border-radius: 12%;
+}
+
+.quote-body {
+  background-color: #435058;
+  padding: 100px 200px;
+}
+
+.quote {
+  font-size: 48px;
+  text-align: center;
+  font-style: italic;
+}
+
+.quote-person {
+  text-align: end;
+  font-weight: bold;
+  font-size: 24px;
+}
