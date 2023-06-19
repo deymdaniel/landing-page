@@ -1,4 +1,5 @@
 # landing-page
 
-colors
-#465775
+first landing page made with HTML and CSS
+
+photos taken from pexels
