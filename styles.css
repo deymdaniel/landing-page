@@ -155,3 +155,43 @@ a {
   font-weight: bold;
   font-size: 16px;
 }
+
+.ad-container {
+  color: #f8f7ff;
+  padding: 100px 200px;
+}
+
+.ad {
+  background-color: #b4869f;
+  padding: 24px;
+  display: flex;
+  border-radius: 12px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.ad-text .big {
+  font-weight: 900;
+  padding: 0;
+  font-size: 36px;
+}
+
+.ad-text .small {
+  font-size: 16px;
+  padding: 0;
+}
+
+.ad-button a {
+  padding: 8px 24px;
+  border: 2px solid #f8f7ff;
+  border-radius: 12px;
+}
+
+.copyright {
+  background-color: #435058;
+  padding: 36px;
+  text-align: center;
+}
+
+.copyright-text {
+}
